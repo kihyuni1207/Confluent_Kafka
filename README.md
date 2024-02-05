@@ -1,2 +1,2 @@
 # Confluent_Kafka
-Confluent_Kafka_Study
+Kafka 스터디
